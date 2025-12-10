@@ -12,4 +12,4 @@ def sub(a, b, c):
 	return a - b - c
 
 #testing
-print("Addition = {add(4,5)}")
+print(f"Addition = {add(4,5)}")
